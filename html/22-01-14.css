@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.mafia{
+    color:white;
+    background-color: black;
+}
+.citizen{
+    color: white;
+    background-color: green;
+}
