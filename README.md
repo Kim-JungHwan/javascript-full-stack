@@ -6,3 +6,6 @@
 
 소스코드에 대한 설명은 [블로그](https://junghwan-hawaii.tistory.com/) 에 포스팅하고 있습니다. 
 
+<br>
+VS Code 프로그램(소스 코드 편집기)를 사용해 실습과 공부를 하고 있습니다. 
+
