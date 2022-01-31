@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+.container {
+	background-color: skyblue;
+	height: 36px;
+	padding: 12px;
+	margin-bottom: 16px;
+	display: flex;
+	width: 400px;
+}
+.item {
+	/* 텍스트 가운데 정렬을 위한 스타일*/
+	width: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid #fff;
+	background: pink;
+}
+.none > .item {
+	flex-shrink: 0;
+}
+.active > .item {
+	flex-shrink: 1;
+}
+.target > .item:first-child {
+	flex-shrink: 1;
+}
+.target > .item:nth-child(2) {
+	flex-shrink: 5;
+}
+.target > .item:last-child {
+	flex-shrink: 3;
+}
