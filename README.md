@@ -10,4 +10,4 @@
 VS Code 프로그램(소스 코드 편집기)를 사용해 실습과 공부를 하고 있습니다. 
 
 ---
-<p> [웹프로그래밍 실습 폴터](https://github.com/develup-official) 에서 웹페이지 프로그래밍 실습 이미지&코드를 클론할 수 있습니다.</p>
+[웹프로그래밍 실습 폴더](https://github.com/develup-official) 에서 웹페이지 프로그래밍 실습 이미지&코드를 클론할 수 있습니다.
