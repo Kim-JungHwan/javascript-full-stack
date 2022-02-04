@@ -10,4 +10,4 @@
 VS Code 프로그램(소스 코드 편집기)를 사용해 실습과 공부를 하고 있습니다. 
 
 ---
-<p><a>https://github.com/develup-official?tab=repositories</a>에서 웹페이지 프로그래밍 실습을 클론할 수 있습니다.</p>
+<p><a>"https://github.com/develup-official?tab=repositories"</a>에서 웹페이지 프로그래밍 실습을 클론할 수 있습니다.</p>
